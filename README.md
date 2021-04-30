@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 My name is Alejandro,  I'm from Argentina.
-- 🔭 I’m currently working as a Director of Systems and Technologies of the Province of Buenos Aires 
+- 🔭 I’m currently working as Provincial Director of Systems and Technologies of the Province of Buenos Aires 
 - ⚡ I' m passionate about technology, the Web and IT project management
 
 <!--
